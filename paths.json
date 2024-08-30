@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/aem-edge-getting-started-site2/:/"
+    "/content/aem-walk-poc/:/",
+    "/content/aem-walk-poc/configuration:/.helix/config.json"
   ]
 }
